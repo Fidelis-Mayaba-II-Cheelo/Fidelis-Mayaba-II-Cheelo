@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I’m currently completing my Bachelor’s degree in Information Technology, with a strong focus on backend development using Python and relational databases. I enjoy building systems that are not only functional but also scalable, efficient, and cleanly designed — especially for solving real-world problems.
+I’m currently completing my Bachelor’s degree in Information Technology, with a strong focus on backend development using Python and relational databases. Building systems that are not only fully funtional but  highly scalable too is my go to hobby.I guees FIDTECH is your solution now!
 
 ---
 
