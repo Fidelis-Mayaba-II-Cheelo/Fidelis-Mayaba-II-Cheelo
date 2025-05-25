@@ -73,7 +73,7 @@ A task and goal tracking app built to support personal productivity:
 
 Open to collaboration, mentorship, or junior developer opportunities:
 
-- 📬 Email: **fidelismcheelo@gmail.com**
+- 📬 Email: **fidelismcheeloii@gmail.com**
 
 ---
 
