@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I’m currently completing my Bachelor’s degree in Information Technology, with a strong focus on backend development using Python,PHP,Javascript(Node and express.js), Java(springboot) and relational databases. Building systems that are not only fully functional but highly scalable too is my go-to hobby. I guess FIDTECH is your solution now!
+I have completed my Bachelor’s degree in Information Technology, specializing in backend development with Python, PHP, JavaScript (Node.js & Express.js), Java (Spring Boot), and relational databases. Building systems that are not only fully functional but highly scalable is my passion—and I believe FIDTECH is your solution!
 
 ---
 
