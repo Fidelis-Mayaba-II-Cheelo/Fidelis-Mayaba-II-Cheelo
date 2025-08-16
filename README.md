@@ -1,17 +1,17 @@
 # 👋 Hi there, I’m Fidelis Mayaba Cheelo II
 
-🎓 **Final Year IT Student | Aspiring Backend Developer | Python Enthusiast**
+🎓 **IT Graduate | Aspiring Backend Developer**
 
 Welcome to my GitHub!
 
-I’m currently completing my Bachelor’s degree in Information Technology, with a strong focus on backend development using Python and relational databases. Building systems that are not only fully functional but highly scalable too is my go-to hobby. I guess FIDTECH is your solution now!
+I’m currently completing my Bachelor’s degree in Information Technology, with a strong focus on backend development using Python,PHP,Javascript(Node and express.js), Java(springboot) and relational databases. Building systems that are not only fully functional but highly scalable too is my go-to hobby. I guess FIDTECH is your solution now!
 
 ---
 
 ## 🚀 What I'm Passionate About
 
 - Designing and building robust backend systems  
-- Automating workflows with Python and SQL  
+- Automating workflows with Programming Languages and SQL  
 - Creating and optimizing relational databases  
 - Learning new technologies and continuously improving  
 
