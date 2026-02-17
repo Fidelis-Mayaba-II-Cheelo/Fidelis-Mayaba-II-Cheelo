@@ -1,10 +1,10 @@
 # 👋 Hi there, I’m Fidelis Mayaba Cheelo II
 
-🎓 **IT Graduate | Aspiring Backend Developer**
+🎓 **IT Graduate | Software Developer**
 
 Welcome to my GitHub!
 
-I have completed my Bachelor’s degree in Information Technology, specializing in backend development with Python, PHP, JavaScript (Node.js & Express.js), Java (Spring Boot), and relational databases. Building systems that are not only fully functional but highly scalable is my passion—and I believe FIDTECH is your solution!
+I have completed my Bachelor’s degree in Information Technology, specializing in backend development with Java and relational databases. Building systems that are not only fully functional but highly scalable is my passion.
 
 ---
 
@@ -19,11 +19,12 @@ I have completed my Bachelor’s degree in Information Technology, specializing 
 
 ## 🧠 Skills & Technologies
 
-- 💻 **Languages**: Python, PHP, Java, JavaScript, SQL, HTML/CSS  
-- 🔗 **Frameworks**: Flask, FastAPI *(learning)*, Spring Boot *(learning)*  
-- 🛠️ **Tools**: Git, VS Code, Postman  
-- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite, MS SQL Server  
-- 📊 **Focus Areas**: REST APIs, ETL pipelines, Data Warehousing, SQL optimization  
+- 💻 **Main Languages**: Java, SQL, HTML/CSS, JavaScript
+- 💻 **Familiar Languages**: Python, PHP, Dart
+- 🔗 **Frameworks Used**: Jarkata EE, Spring Boot, Express.js, Flutter
+- 🛠️ **Tools**: Git, Eclipse, VS Code, Postman  
+- 🗄️ **Databases**: PostgreSQL, MySQL, Mongo DB  
+- 📊 **Focus Areas**: Web Application Development, Mobile Application Development, REST APIs, Database Design and Development, SQL optimization
 
 ---
 
@@ -74,10 +75,10 @@ A task and goal tracking app built to support personal productivity:
 ---
 
 ## 🌱 Currently Exploring
-
-- Building RESTful APIs using **FastAPI**  
+ 
 - Docker basics and backend deployment practices  
-- Writing high-performance SQL and reusable stored procedures  
+- Writing high-performance SQL and reusable stored procedures
+- Linux Bash Scripting 
 
 ---
 
